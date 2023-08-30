@@ -39,3 +39,4 @@ Route::post('/addnewpost',[PostController::class,'InsertPost']);
 Route::get('/postpage/{id}',[PostController::class,'ShowPost']);
 Route::post('/postpage',[PostController::class,'AddComment']);
 //Route::get('Login',[PostController::class,'ShowPost']);
+# First Update
